@@ -1,5 +1,5 @@
 seaborn
 streamlit
-plotly
+plotly_express
 pandas
 openpyxl
