@@ -69,6 +69,6 @@ if chart_select == 'Scatterplots':
     #st.header('Full Dataset')
     #st.write(full_df)
     st.subheader('Note on Polarity Scores')
-    st.write('The polarity scores are calculated by a simple ratio of RTs received by a journalist from politicians and their affiliations. Tweets were collected over a period starting from 1st August 2021 to 14th September 2022. Please refer to tge original blogpost for additional details on the data collection process, methodology and interpretation.')
+    st.write('The polarity scores are calculated by a simple ratio of RTs received by a journalist from politicians and their affiliations. Tweets were collected over a period starting from 1st August 2021 to 14th September 2022. Please refer to the original blogpost (http://joyojeet.people.si.umich.edu/journalists/) for additional details on the data collection process, methodology and interpretation.')
     st.write('Also note that these scores are a crude approximation, subject to various levels of errors. They should not be treated as a robust or accurate indicator of political affiliation')
     
